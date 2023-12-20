@@ -4,7 +4,7 @@
 
 This repository holds the code for the **Coding for network security Making Microbits useful** project run by the [University of the West of England (UWE)](https://www.uwe.ac.uk/). 
 
-The project itself usses the [micro:bit radio](https://makecode.microbit.org/reference/radio) functionality to work from insecure to paried and encrypted communication between micro:bits (v2).
+The project itself uses the [micro:bit radio](https://makecode.microbit.org/reference/radio) functionality to work from insecure to paried and encrypted communication between micro:bits (v2).
 
 ### Simple Radio
 
