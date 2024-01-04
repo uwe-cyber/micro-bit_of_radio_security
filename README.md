@@ -1,6 +1,6 @@
 ![](https://uwe-cyber.github.io/images/uwe_banner.png)
 
-# Future Funfair
+# (micro)Bit of Radio Security
 
 This repository holds the code for the **Coding for network security Making Microbits useful** project run by the [University of the West of England (UWE)](https://www.uwe.ac.uk/). 
 
